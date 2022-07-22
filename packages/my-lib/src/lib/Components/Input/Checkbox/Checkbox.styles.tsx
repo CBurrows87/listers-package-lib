@@ -10,5 +10,4 @@ export const Label = styled.label`
     font-weight: 500;
     background-color: ${Themes.color.red100};
 `
-
 const HiddenCheckbox = styled.input<CheckboxProps>``;
